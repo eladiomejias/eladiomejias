@@ -14,8 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eladiomejias&show_icons=true&bg_color=ffffff&locale=es&layout=compact)](https://github.com/eladiomejias)
 
-[![eladiomejias wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eladiomejias)](https://github.com/eladiomejias)
-
 
 <!--
 **eladiomejias/eladiomejias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
