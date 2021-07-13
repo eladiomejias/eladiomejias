@@ -12,7 +12,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eladiomejias&show_icons=true&locale=en&layout=compact" alt="eladiomejias" /></p>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eladiomejias&layout=compact)](https://github.com/eladiomejias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eladiomejias&show_icons=true&theme=dark&locale=es&layout=compact)](https://github.com/eladiomejias)
 
 
 <!--
